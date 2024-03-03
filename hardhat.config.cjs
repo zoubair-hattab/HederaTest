@@ -15,7 +15,7 @@ module.exports = {
     mumbai: {
       url: 'https://testnet.hashio.io/api',
       accounts: [
-        `0x0e732ee3048e0dddf4572c0f02a270bae041da444d0717afa993cc6fb8da630a`,
+        `privet`,
       ],
     },
   },
